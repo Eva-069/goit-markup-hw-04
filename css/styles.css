@@ -187,6 +187,9 @@ a {
   display: block;
   margin: 0 auto;
 }
+.main-button:hover {
+  background-color: #404bbf;
+}
 .main-button:hover,
 .main-button:focus {
   background: #404bbf;
@@ -303,6 +306,9 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+.icon-team-fill:hover {
+  background-color: #31d0aa;
 }
 .text-color-wrp {
   position: relative;
